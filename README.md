@@ -1,4 +1,4 @@
-# PGP Encryption/Decryption using C`#`
+# PGP Encryption/Decryption using C# #
 
 This project was forked from an article written by Maruthi Pallamalli. Please read the credits section to see article's the URL.
 
