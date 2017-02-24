@@ -1,8 +1,6 @@
-# Project Name
+# PGP Encryption/Decryption using C#
 
-PGP Encryption/Decryption using C#
-
-This project was forked from an article written by Maruthi Pallamalli. Please read the credits section to article's URL.
+This project was forked from an article written by Maruthi Pallamalli. Please read the credits section to article's the URL.
 
 ## Features
 I've implemented the following changes:
@@ -29,4 +27,4 @@ Make sure to download the BouncyCastle.Crypto library via NuGet. Gpg4win is also
 
 ## License
 
-This project is licensed under the MIT license - see the LICENSE.MD file for details
+This project is licensed under the MIT license - see the [LICENSE.MD](./LICENSE) file for details
