@@ -1,0 +1,6 @@
+###
+# Ignore Chef key files and secrets
+###
+/PGP Reference Application/PGP Reference Application/obj
+/PGP Reference Application/PGP Reference Application/bin/Debug
+/PGP Reference Application/PGP Reference Application/bin/Release
